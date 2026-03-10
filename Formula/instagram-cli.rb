@@ -1,8 +1,8 @@
 class InstagramCli < Formula
   desc "Unofficial CLI and terminal client for Instagram"
   homepage "https://github.com/supreme-gg-gg/instagram-cli"
-  url "https://registry.npmjs.org/@i7m/instagram-cli/-/instagram-cli-1.4.4.tgz"
-  sha256 "2aa53d118d2dbc6649f3f4cc57ca2b65edc551736c27144117507b66ee754ebc"
+  url "https://registry.npmjs.org/@i7m/instagram-cli/-/instagram-cli-1.4.5.tgz"
+  sha256 "a6c3eb8e6b99849b2b7ea67639ba702b520a2947bc34100c2aeb5dde3692ae9a"
   license "MIT"
 
   depends_on "node"
